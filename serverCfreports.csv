@@ -1,0 +1,29 @@
+Server Index,Brand Name,Model Name,Product Carbon Footprint (lbCO2e),Method
+18,CISCO,UCSB-B480-M5,Not Available,Not Available
+25,DELL,E41S,3232.9,PAIA
+32,DELL EMC,E03B,4034.2,PAIA
+47,DELL EMC,E05B,Not Available,Not Available
+57,CISCO,UCSC-C480-M5,Not Available,Not Available
+61,DELL EMC,E49S,3473.6,PAIA
+62,DELL EMC,E54S,1862.5,PAIA
+97,Fujitsu,PRIMERGY RX4770 M5 E-Star Fam4,Not Available,Not Available
+104,Hewlett Packard Enterprise,DL580 Gen10,1323.7,PAIA
+121,Fujitsu,PRIMERGY RX4770 M6 E-Star Fam4,Not Available,Not Available
+128,Hewlett Packard Enterprise,HPE Superdome Flex 280 Server 4P,Not Available,Not Available
+131,Hewlett Packard Enterprise,HPE Synergy 660 Gen10 Compute Module,2414.1,PAIA
+149,Hewlett Packard Enterprise,HPE Proliant DL560 Gen 10,Not Available,Not Available
+177,Inspur,NF8260M5,Not Available,Not Available
+178,Inspur,NF8260M6,Not Available,Not Available
+179,Inspur,NF8480M5,Not Available,Not Available
+180,Inspur,NF8480M6,Not Available,Not Available
+191,IBM,Power Systems E950,Not Available,Not Available
+192,IBM,IBM Power E1050,Not Available,Not Available
+198,HPE Proliant DL560 Gen 10,HPE Proliant DL560 Gen 10,Not Available,Not Available
+201,Lenovo,Lenovo ThinkSystem SR850P Server,19211.1,PAIA
+204,Lenovo,Lenovo ThinkSystem SR850 V2,20352.4,PAIA
+213,Lenovo,Lenovo ThinkSystem SR950 Server (Xeon SP Gen2),4523.9,PAIA
+214,Lenovo,ThinkSystem SN850,13310.4,PAIA
+224,Inspur,SA8212H6,Not Available,Not Available
+234,Lenovo,Lenovo ThinkSystem SR860 V2,14093.7,PAIA
+258,Lenovo,ThinkSystem SR850,22532.1,PAIA
+261,Lenovo,ThinkSystem SR860,Not Available,Not Available

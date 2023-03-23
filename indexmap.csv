@@ -1,0 +1,29 @@
+,brand_name,model_name
+18,CISCO,UCSB-B480-M5
+25,DELL,E41S
+32,DELL EMC,E03B
+47,DELL EMC,E05B
+57,CISCO,UCSC-C480-M5
+61,DELL EMC,E49S
+62,DELL EMC,E54S
+97,Fujitsu,PRIMERGY RX4770 M5 E-Star Fam4
+104,Hewlett Packard Enterprise,DL580 Gen10
+121,Fujitsu,PRIMERGY RX4770 M6 E-Star Fam4
+128,Hewlett Packard Enterprise,HPE Superdome Flex 280 Server 4P
+131,Hewlett Packard Enterprise,HPE Synergy 660 Gen10 Compute Module
+149,Hewlett Packard Enterprise,HPE Proliant DL560 Gen 10
+177,Inspur,NF8260M5
+178,Inspur,NF8260M6
+179,Inspur,NF8480M5
+180,Inspur,NF8480M6
+191,IBM,Power Systems E950
+192,IBM,IBM Power E1050
+198,HPE Proliant DL560 Gen 10,HPE Proliant DL560 Gen 10
+201,Lenovo,Lenovo ThinkSystem SR850P Server
+204,Lenovo,Lenovo ThinkSystem SR850 V2
+213,Lenovo,Lenovo ThinkSystem SR950 Server (Xeon SP Gen2)
+214,Lenovo,ThinkSystem SN850
+224,Inspur,SA8212H6
+234,Lenovo,Lenovo ThinkSystem SR860 V2
+258,Lenovo,ThinkSystem SR850
+261,Lenovo,ThinkSystem SR860
